@@ -1,4 +1,4 @@
-// Guss the number and result.
+// Guess the number and result.
 
 const number = Math.floor(Math.random() * 100) + 1;
 const result = number % 2 === 0 ? "even" : "odd";
